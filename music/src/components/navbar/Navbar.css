@@ -1,0 +1,4 @@
+.search-music:is(:focus){
+   outline:none;
+}
+
